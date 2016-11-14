@@ -1,0 +1,4 @@
+c:\users\k401\documents\visual studio 2015\Projects\BAITAPHDT\BAITAPHDT\bin\Debug\BAITAPHDT.exe.config
+C:\Users\K401\Documents\GitHub\bai-tap-NgocThangNguyen\BAITAP\BAITAPHDT\BAITAPHDT\bin\Debug\BAITAPHDT.exe.config
+C:\Users\DIEN\Desktop\bai-tap-NgocThangNguyen-master\BAITAP\BAITAPHDT\BAITAPHDT\bin\Debug\BAITAPHDT.exe.config
+C:\Users\DIEN\Desktop\bai-tap-NgocThangNguyen-master\BAITAP\BAITAPHDT\BAITAPHDT\obj\Debug\BAITAPHDT.csprojResolveAssemblyReference.cache
