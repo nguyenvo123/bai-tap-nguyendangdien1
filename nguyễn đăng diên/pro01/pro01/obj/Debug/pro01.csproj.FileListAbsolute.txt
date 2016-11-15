@@ -1,0 +1,6 @@
+C:\Users\DIEN\Documents\pro01\pro01\bin\Debug\pro01.exe.config
+C:\Users\DIEN\Documents\pro01\pro01\bin\Debug\pro01.exe
+C:\Users\DIEN\Documents\pro01\pro01\bin\Debug\pro01.pdb
+C:\Users\DIEN\Documents\pro01\pro01\obj\Debug\pro01.csprojResolveAssemblyReference.cache
+C:\Users\DIEN\Documents\pro01\pro01\obj\Debug\pro01.exe
+C:\Users\DIEN\Documents\pro01\pro01\obj\Debug\pro01.pdb

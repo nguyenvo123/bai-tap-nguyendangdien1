@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="pro01.Program">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAQAAAAAAAAAAAACIAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Program1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="pro01.vexemphim">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <AssociationLine Name="rapchieuphim" Type="pro01.rapchieuphim" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.281" Y="2.055" />
+        <Point X="3.281" Y="3.125" />
+        <Point X="5" Y="3.125" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AgIAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>vexemphim.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="rapchieuphim" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="pro01.vevip">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <InheritanceLine Type="pro01.vexemphim" FixedToPoint="true">
+      <Path>
+        <Point X="4" Y="0.875" />
+        <Point X="4.25" Y="0.875" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAACAAAACAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>vevip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pro01.vethuong">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <InheritanceLine Type="pro01.vexemphim" FixedToPoint="true">
+      <Path>
+        <Point X="2.5" Y="0.875" />
+        <Point X="2" Y="0.875" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAACAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>vethuong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pro01.rapchieuphim">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAABAAAAAAAAAMAIAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>rapchieuphim.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Program1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="pro01.Phim">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <AssociationLine Name="rapchieuphim" Type="pro01.rapchieuphim" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.125" Y="2.632" />
+        <Point X="7.125" Y="3.312" />
+        <Point X="6.5" Y="3.312" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAIQAAAABAAAAAAAAAAAAAAAAAAAAAAAIAAAAgAAAAI=</HashCode>
+      <FileName>Phim.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="rapchieuphim" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="pro01.nguoiquanly">
+    <Position X="8.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQQiAAAAAAAAAAAAAIAAAAAAAAAAAEAAAAAAAgAA=</HashCode>
+      <FileName>nguoiquanly.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Program1" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
